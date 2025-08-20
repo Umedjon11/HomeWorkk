@@ -371,6 +371,9 @@
     border-style: var(--tw-border-style);
     border-width: 2px;
   }
+  .bg-\[\#66CCA0\] {
+    background-color: #66CCA0;
+  }
   .bg-\[\#EDA6E6\] {
     background-color: #EDA6E6;
   }
