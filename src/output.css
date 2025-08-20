@@ -327,6 +327,9 @@
   .gap-\[2\%\] {
     gap: 2%;
   }
+  .gap-\[2px\] {
+    gap: 2px;
+  }
   .gap-\[2vh\] {
     gap: 2vh;
   }
@@ -336,6 +339,9 @@
   .gap-\[5\%\] {
     gap: 5%;
   }
+  .gap-\[5px\] {
+    gap: 5px;
+  }
   .gap-\[10\%\] {
     gap: 10%;
   }
@@ -344,6 +350,12 @@
   }
   .gap-\[40\%\] {
     gap: 40%;
+  }
+  .gap-\[px\] {
+    gap: px;
+  }
+  .rounded {
+    border-radius: 0.25rem;
   }
   .rounded-\[5px\] {
     border-radius: 5px;
@@ -359,6 +371,9 @@
     border-style: var(--tw-border-style);
     border-width: 2px;
   }
+  .bg-\[\#EDA6E6\] {
+    background-color: #EDA6E6;
+  }
   .bg-\[\#F5F3EA\] {
     background-color: #F5F3EA;
   }
@@ -368,11 +383,29 @@
   .bg-\[v\] {
     background-color: v;
   }
+  .p-\[2px\] {
+    padding: 2px;
+  }
+  .p-\[10\%\] {
+    padding: 10%;
+  }
+  .px-\[10\%\] {
+    padding-inline: 10%;
+  }
   .px-\[20\%\] {
     padding-inline: 20%;
   }
   .py-\[2vh\] {
     padding-block: 2vh;
+  }
+  .py-\[10vh\] {
+    padding-block: 10vh;
+  }
+  .py-\[15vh\] {
+    padding-block: 15vh;
+  }
+  .py-\[20vh\] {
+    padding-block: 20vh;
   }
   .pl-\[65\%\] {
     padding-left: 65%;
